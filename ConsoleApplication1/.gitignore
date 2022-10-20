@@ -1,0 +1,10 @@
+# ignores following folders
+bin/
+build/
+/cmake
+/configuration
+/Debug
+/dlls
+/resources
+/.vs
+/.github
